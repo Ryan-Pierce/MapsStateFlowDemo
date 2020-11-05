@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MapsStateFlowDemo</string>
+    <string name="title_activity_maps">StateMap</string>
+</resources>
